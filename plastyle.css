@@ -96,13 +96,7 @@ a:hover i{
   /* border: #34AF6D 2px solid; */
   /* display: none; */
 }
-#dashboard-section img{
-  width: 70px;
-  height: 70px;
-  border-radius: 20%;
 
-  margin-right: 10px;
-}
 .main-top{
   display: flex;
   width: 100%;
@@ -271,7 +265,7 @@ a:hover i{
 .users .card img{
   width: 70px;
   height: 70px;
-  border-radius: 50%;
+  border-radius: 8px;
 }
 .users .card h4{
   text-transform: uppercase;
